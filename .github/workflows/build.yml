@@ -89,7 +89,7 @@ jobs:
           2B8cDYf/MDINAKF6eOXu9uSe5kMwANtntC2gTqZMup1lF0Y+ahweB5IWQaJ4L2hYjsaHktuN0+PmQaubQAa7Y/p0t0s+F/2tMyTo
           uIH6JuPvev/8pRdv/4/9DZu7HeOa/b9eqSXuf25WHvM/D1LKH5/+6z989o/w8dvffvHsLwd/+es/f/ZPn/3nxy/++puPX/xf+eMX
           /1v++Pn/RJo+/+/ffPz8v6D6P/6/vTMPaiLL43gIAbkZwiWKEG4ECeEYAgiEK4AilyESHBSjBghnDJdREeRGDjlVThNEQEFuGVQQ
-          EMMhKCCCnIKccsnheABBlqg7bs0fO1tbu7NVW/2p6urq916/rurq962uX/fv993eMtm5v3fxcLGAtzsNtxv1EC6/n8HGi3BEaP84
+          EMMhKCCCnIKccsnheABBlqg7bs0fO1tbu7NVW/2p6urqr916/rurq962uX/fv993eMtm5v3fxcLGAtzsNtxv1EC6/n8HGi3BEaP84
           5EEoQ4RuRXsekOc62NG2EC/vcAsswZruxgUGK/wEZoEheNg5vo0Fc7KBEHvYOU9EWrAQWCEsSpCfRD12Kwbptb5pk86NH9e9YgoJ
           hXQZ71zjxbq2PRLrLePX0xZYIbfFaep/QX7oUmzi/1XhA98UK9+St63l7Mjo/nipHWbZ2Xs5dNakGptMc48UhVzXtbptMoEJe9gs
           GW4wTdECt8J7hhPRVkKGz3tvvq/FlKS0aV6ZzhItP3NB5j6fLerGzZvWj16uEB12LZtFK+z0rbWtPbxInupPNorveawFmZm2SVUd
@@ -125,7 +125,7 @@ jobs:
           8B2o0UjkiPkrY/6xRdpDhxqIkGyEfuSxzxmDaxl6xpOsl55ofGmwY0rE//r9FuCfA1f95vrL/O+bRCD7EQn/qayvH/zZ9x+ElsYf
           /b/UAf/3vwYfsut332e4e4AXnuzqq6+C8zqr7vp3w1+4vy/h+1cBnD4z/gZEc/6fgKv6fq/n/V+z//7T9c+M+fzB/xOpAfz/+Zfw
           zf/bCu+N/5aG9TWXiuTjS/RjxsKZ7smuPj6uzMT//TAvfADB22R7EBnPrGIN+/bA2H6dwdaH7MdsZWai/fBfpnytVeHPjAj/O5f4
-          OhnzxtuSfZiWIXBmDJtZDcHe/AjTqkqa62uVvtMERWldPIkkvRfQJgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgL8BY5yxpgCgAAA=
+          OhnzxtuSfZiWIXBmDJtZDcHe/AjTqkqa62uVvtMERWldPIkkvRfQJgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgL8BY5yxpgCgAAA=
           B64
           mkdir -p android/app/src/main/assets
           cp index.html android/app/src/main/assets/index.html
